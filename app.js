@@ -7,32 +7,32 @@
   "stack": "container",
   "env": { 
   
-    "SESSION_ID": {
+    "SESSION_ID": 'INCONNU~XD~ChwTEarA#tjCDKSc6p13H6h6pFn59seUPRpV4JQjdsvKCv90DQ4s'
       "description": "Ensure your session Id starts with the word INCONNU~XD~",
       "required": true,
       "value": ""
     },
-    "MODE": {
+    "MODE": 'private'
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": '🌎__🧃🛫'
       "description": "Your name as the bot owner",
       "required": true,
       "value": "INCONNU BOY"
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": '50940309686'
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "554488138425"
+      "value": "50940309686"
     },
-    "AUTO_READ": {
+    "AUTO_READ": 'false'
       "description": "Enable bot to auto-read messages (true/false)",
       "required": false,
       "value": "false"
     },
-    "AUTO_TYPING": {
+    "AUTO_TYPING": 'true'
       "description": "Enable bot to show typing status (true/false)",
       "required": false,
       "value": "false"
